@@ -1,1 +1,1 @@
-# Color-detec-ai-
+# Color-detection-python
